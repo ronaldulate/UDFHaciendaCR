@@ -4,7 +4,7 @@
 
 CalcularImpuestoRentaPersonaJuridica(RentaNetaAnual):  Calcula el impuesto sobre la renta enviando como parámetro la celda que contiene la renta anual.
 
-  Utiliza por defecto los valores del periodo fiscal 2022.
+  Utiliza por defecto los valores del periodo fiscal a presentar en el 2022.
   
   
   
